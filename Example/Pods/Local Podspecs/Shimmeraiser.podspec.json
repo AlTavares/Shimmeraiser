@@ -1,6 +1,6 @@
 {
   "name": "Shimmeraiser",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Shimmeraiser implements a Shimmer enabling your to configure colors, animation duration, sizes and much more.",
   "homepage": "https://github.com/victorpanitz/Shimmeraiser",
   "license": {
@@ -12,14 +12,14 @@
   },
   "source": {
     "git": "https://github.com/victorpanitz/Shimmeraiser.git",
-    "tag": "1.0.3"
+    "tag": "1.0.4"
   },
   "social_media_url": "https://www.linkedin.com/in/victorpmagalhaes/",
-  "swift_versions": "4.2",
+  "swift_versions": "5.0",
   "platforms": {
     "ios": "9.0"
   },
   "source_files": "Shimmeraiser/**/*.{swift}",
   "frameworks": "UIKit",
-  "swift_version": "4.2"
+  "swift_version": "5.0"
 }
